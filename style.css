@@ -1,0 +1,31 @@
+.menu{
+    background-color: grey;
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    justify-content: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    border: solid;
+    border-radius: 20px;
+    width: 50%;
+}
+.nadpis{
+    background-color: grey;
+    color: white;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
